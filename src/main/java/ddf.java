@@ -4,6 +4,6 @@
  */
 public class ddf {
     public static void main(String[] args) {
-        String s= ":1!";
+        String s= ":1545!";
     }
 }
